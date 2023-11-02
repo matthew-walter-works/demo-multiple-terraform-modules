@@ -9,7 +9,7 @@ variable "my_ip" {
   type        = string
 }
 
-variable "test-var" {
+variable "test-var-2" {
   description = "value for test-var"
   type        = string
 }
