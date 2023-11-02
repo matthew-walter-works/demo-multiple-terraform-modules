@@ -39,6 +39,7 @@ No modules.
 | <a name="input_enable_versioning"></a> [enable\_versioning](#input\_enable\_versioning) | Whether or not to enable object versioning | `bool` | `true` | no |
 | <a name="input_ignore_public_acls"></a> [ignore\_public\_acls](#input\_ignore\_public\_acls) | Enable ignore\_public\_acls | `bool` | `true` | no |
 | <a name="input_restrict_public_buckets"></a> [restrict\_public\_buckets](#input\_restrict\_public\_buckets) | Enable restrict\_public\_buckets | `bool` | `true` | no |
+| <a name="input_test-var-2"></a> [test-var-2](#input\_test-var-2) | test var 2 | `string` | `""` | no |
 
 ## Outputs
 
