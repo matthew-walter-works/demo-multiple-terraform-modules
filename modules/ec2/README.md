@@ -27,6 +27,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_my_ip"></a> [my\_ip](#input\_my\_ip) | The IP address to allow SSH access from | `string` | n/a | yes |
 | <a name="input_name"></a> [name](#input\_name) | The name of the instance | `string` | `"my-terraform-instance"` | no |
+| <a name="input_test-var"></a> [test-var](#input\_test-var) | value for test-var | `string` | n/a | yes |
 
 ## Outputs
 
